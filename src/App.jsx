@@ -48,7 +48,7 @@ export default function Page() {
             Thank you so much for choooosing mee! You make me happy happy! 🥹<br/>
             Be ready on saturday at 4pm your time. So you won't get too hangry 😋<br/>
             We gonna have a steak 🥩 I am looking forward to have a wonderful time with you 🥰<br/>
-            You're the best, you're my love and I aem so greatful for having you in my life!!! 💛💛<br/>
+            You're the best, you're my love and I am so greatful for having you in my life!!! 💛💛<br/>
             I always will be 🐠🐡💛
           </center></div>
           <div>
