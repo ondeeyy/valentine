@@ -14,23 +14,24 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
+      "Are you sure my love?",
       "Really sure?",
-      "Think again!",
-      "Last chance!",
+      "Heey, think again!",
+      "Last chance hun!",
       "Surely not?",
-      "You might regret this!",
-      "Give it another thought!",
+      "You might regret this Marieeeee!!!",
+      "Give it another thought hun!",
       "Are you absolutely certain?",
       "This could be a mistake!",
-      "Have a heart!",
+      "Have a heart! Pleeaaseee!!",
       "Don't be so cold!",
-      "Change of heart?",
-      "Wouldn't you reconsider?",
+      "I am gonna call you Marisa!!! :P",
+      "No it was a joke my love, don't worry",
+      "Still no?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
       "Is that your final answer?",
-      "You're breaking my heart ;(",
+      "You're breaking my heart even moreee ;(",
       "Plsss? :( You're breaking my heart",
     ];
 
@@ -42,8 +43,16 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+          <div className="text-4xl md:text-6xl font-bold my-4" text-align:center><center>
+            Awwwhhh!!! You're the sweetest girlfriend on earth 💛<br/>
+            Thank you so much for choooosing mee! You make me happy happy! 🥹<br/>
+            Be ready on saturday at 4pm your time. So you won't get too hangry 😋<br/>
+            We gonna have a steak 🥩 I am looking forward to have a wonderful time with you 🥰<br/>
+            You're the best, you're my love and I aem so greatful for having you in my life!!! 💛💛<br/>
+            I always will be 🐠🐡💛
+          </center></div>
+          <div>
+            😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘
           </div>
         </>
       ) : (
@@ -61,7 +70,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Dear Marie, my love, will you be my Valentine this year? 🍫🐻💐🌹
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
@@ -89,12 +98,12 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/Xeven777/valentine"
+      href="https://www.instagram.com/alleeroundtheworld/"
       target="__blank"
     >
       Made with{" "}
       <span role="img" aria-label="heart">
-        ❤️
+        💛
       </span>
     </a>
   );
