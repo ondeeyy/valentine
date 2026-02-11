@@ -39,11 +39,11 @@ export default function Page() {
   };
 
   return (
-    <div className="overflow-hidden flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
+    <div className="overflow-scroll flex flex-col items-center justify-center pt-4 h-screen -mt-16 selection:bg-rose-600 selection:text-white text-zinc-900">
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="text-4xl md:text-6xl font-bold my-4" text-align:center><center>
+          <div className="text-2xl md:text-5xl font-bold my-4" text-align:center><center>
             Awwwhhh!!! You're the sweetest girlfriend on earth 💛<br/>
             Thank you so much for choooosing mee! You make me happy happy! 🥹<br/>
             Be ready on saturday at 4pm your time. So you won't get too hangry 😋<br/>
